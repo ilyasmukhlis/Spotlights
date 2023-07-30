@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tooltipBgColor">#A3111114</color>
+    <color name="colorFill1">#111114</color>
+    <color name="colorFill2">#F1F1F1</color>
+    <color name="colorFill3">#7A111114</color>
+    <color name="colorButton">#0A111114</color>
+
+</resources>
